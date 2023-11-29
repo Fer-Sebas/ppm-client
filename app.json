@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "11d9fbe3-66c9-4038-bdfb-c5161b74f48c"
+      }
+    },
+    "owner": "fersebas"
   }
 }
