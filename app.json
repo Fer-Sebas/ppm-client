@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "ppm-client",
+    "name": "Metro Assistant",
     "slug": "ppm-client",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1D7AFC"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -20,8 +20,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#1D7AFC"
+      },
+      "package": "com.fersebas.ppmclient"
     },
     "web": {
       "favicon": "./assets/favicon.png"
